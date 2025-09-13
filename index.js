@@ -39,7 +39,10 @@ console.log(versionControlBenefits);
 
 // 4. Explain the steps to pushing changes in Git.
 // Write your answer as an array of steps below, with each step being a string.
-let stepsToPushChanges = [];
+let stepsToPushChanges = [
+   "Make chnage to your files in the working directory",
+   "Stage the change using 'git add "
+];
 
 console.log("What are the steps to pushing changes in Git?");
 console.log(stepsToPushChanges); 
