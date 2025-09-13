@@ -41,7 +41,10 @@ console.log(versionControlBenefits);
 // Write your answer as an array of steps below, with each step being a string.
 let stepsToPushChanges = [
    "Make chnage to your files in the working directory",
-   "Stage the change using 'git add "
+   "Stage the change using 'git add",
+   "Commit the changes with 'git commit -m Your commit message'",
+   "Make sure your local repository is linked to the GitHub remote using 'git remot add origin",
+   "Push the changes using 'git push origin' "
 ];
 
 console.log("What are the steps to pushing changes in Git?");
